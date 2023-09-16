@@ -12,6 +12,7 @@ TEAM members `incomplete`
 | Archit Anant | 27 | CORE, S/W DEV |[ArchitAnant](https://github.com/ArchitAnant)||
 | Deepta Surya Kolay| 26 | IOT |[Deeepta-123](https://github.com/Deeepta-123)||
 ||||[](https://github.com/)||
+|Ankit Ojha|26||[ojhankit](https://github.com/AnkitOjha)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
