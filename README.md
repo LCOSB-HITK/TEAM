@@ -10,6 +10,7 @@ TEAM members `incomplete`
 | Ashmita Barnwal | 27 | CORE|[Ashmita-15](https://github.com/Ashmita-15)||
 | Sneha | 27 | CORE |[Sana9909](https://github.com/Sana9909)||
 | Archit Anant | 27 | CORE, S/W DEV |[ArchitAnant](https://github.com/ArchitAnant)||
+| Ankan Das | 27 | CORE | [SnShot04](https://github.com/SnShot04)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
