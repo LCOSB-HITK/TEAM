@@ -18,7 +18,7 @@ TEAM members `incomplete`
 | - |||[](https://github.com/)||
 
 
-Previous members `incomplete`
+Inactive members `incomplete`
 
 | Name | Batch | Team | Handle | Logs |
 |---|---|---|---|--|
