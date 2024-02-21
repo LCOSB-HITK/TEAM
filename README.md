@@ -26,6 +26,7 @@ Previous members `incomplete`
 | Sneha Lahiri | 26 | CORE |[Sana9909](https://github.com/Sana9909)||
 | Ankan Das | 27 | CORE | [SnShot04](https://github.com/SnShot04)||
 | Deepta Surya Kolay| 26 | IOT |[Deeepta-123](https://github.com/Deeepta-123)||
+| Sachin Kumar| 26 | | [Sam-sachi9k](https://github.com/Sam-sachi9k) | |
 | Ankit Ojha|26||[ojhankit](https://github.com/AnkitOjha)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
