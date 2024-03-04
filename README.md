@@ -4,7 +4,7 @@ Repo for public visibility and interaction with team members; member specific su
 TEAM members `incomplete`
 | Name | Batch | Team | Handle | Logs | 
 |---|---|---|---|--|
-| Shubhadeep Sarkar | 24 | CORE, S/W DEV, TECH | [LuciusPertis](https://github.com/LuciusPertis) | |
+| Shubhadeep Sarkar | 24 | CORE, S/W DEV, TECH, MECH, Theoretical | [LuciusPertis](https://github.com/LuciusPertis) | |
 | Rajarshi | 24 | CORE, S/W DEV, TECH | [MISTERNEGATIVE21](https://github.com/MISTERNEGATIVE21) | |
 | Anshuman Dhan | 24 | CORE, S/W DEV, TECH, Theoretical | [Anshuman-Dhan](https://github.com/Anshuman-Dhan) | |
 | Vikash | 25 | MECH, TECH | [VikashAgnihotry](https://github.com/VikashAgnihotry) ||
