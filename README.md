@@ -7,12 +7,12 @@ TEAM members `incomplete`
 | Shubhadeep Sarkar | 24 | CORE, S/W DEV, TECH | [LuciusPertis](https://github.com/LuciusPertis) | |
 | Rajarshi | 24 | CORE, S/W DEV, TECH | [MISTERNEGATIVE21](https://github.com/MISTERNEGATIVE21) | |
 | Anshuman Dhan | 24 | CORE, S/W DEV, TECH, Theoretical | [Anshuman-Dhan](https://github.com/Anshuman-Dhan) | |
-| Sunny | 25 | TECH | | |
+| Vikash | 25 | MECH, TECH | [VikashAgnihotry](https://github.com/VikashAgnihotry) ||
 | Archit Anant | 27 | CORE, S/W DEV |[ArchitAnant](https://github.com/ArchitAnant)||
+| Nausheen | 26 | S/W DEV|[Nausheen-ux](https://github.com/Nausheen-ux)||
 | Ankana Datta | 27 | S/W DEV, TECH | [anda05](https://github.com/anda05) | |
 | Debajit | 26 | Theoretical | []() ||
 | Aakash Deep | 27 | S/W DEV |[hackaakashh](https://github.com/hackaakashh)||
-| - |||[](https://github.com/)||
 | - |||[](https://github.com/)||
 | - |||[](https://github.com/)||
 | - |||[](https://github.com/)||
@@ -22,6 +22,7 @@ Inactive members `incomplete`
 
 | Name | Batch | Team | Handle | Logs |
 |---|---|---|---|--|
+| Sunny | 25 | MECH | | |
 | Ashmita Barnwal | 27 | CORE|[Ashmita-15](https://github.com/Ashmita-15)||
 | Sneha Lahiri | 26 | CORE |[Sana9909](https://github.com/Sana9909)||
 | Ankan Das | 27 | CORE | [SnShot04](https://github.com/SnShot04)||
